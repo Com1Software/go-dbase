@@ -1,4 +1,4 @@
-module github.com/Valentin-Kaiser/go-dbase
+module github.com//Com1Software/go-dbase
 
 go 1.20
 
