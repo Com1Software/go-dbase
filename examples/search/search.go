@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/Valentin-Kaiser/go-dbase/dbase"
+	"github.com/Com1Software/go-dbase/dbase"
 )
 
 func main() {
