@@ -16,7 +16,7 @@ const (
 	FoxPro              FileVersion = 0x30
 	FoxProAutoincrement FileVersion = 0x31
 	FoxProVar           FileVersion = 0x32
-	FoxBasePlus         FileVersion = 0x03
+	FoxBasePlus         FileVersion = 0x3
 )
 
 // Not tested
