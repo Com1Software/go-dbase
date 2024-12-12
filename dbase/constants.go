@@ -16,13 +16,13 @@ const (
 	FoxPro              FileVersion = 0x30
 	FoxProAutoincrement FileVersion = 0x31
 	FoxProVar           FileVersion = 0x32
+	FoxBasePlus         FileVersion = 0x03
 )
 
 // Not tested
 const (
 	FoxBase         FileVersion = 0x02
 	FoxBase2        FileVersion = 0xFB
-	FoxBasePlus     FileVersion = 0x03
 	DBaseSQLTable   FileVersion = 0x43
 	FoxBasePlusMemo FileVersion = 0x83
 	DBaseMemo       FileVersion = 0x8B
